@@ -21,7 +21,7 @@ bio: Student at Hogwarts School
 email: harry (at) hogwarts (dot) edu
 ---
 
-<ProfileSection :frontmatter="$page.frontmatter" />
+<ProfileSection :frontmatter="$page.frontmatter" :sidebar="auto"/>
 
 ## About Me
 
