@@ -2,26 +2,21 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Pi Ko
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Undergraduate Student at New York University Abu Dhabi
+email: pk2269 (at) nyu (dot) edu
 ---
 
-<ProfileSection :frontmatter="$page.frontmatter" :sidebar="auto"/>
+<ProfileSection :frontmatter="$page.frontmatter"/>
 
 ## About Me
 
