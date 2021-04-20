@@ -8,10 +8,6 @@ interests: 'Interests: Quidditch and Wizard chess.'
 socials:
 - title: github
   link: https://github.com/mtobeiyf
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
 - title: email
   link: 'mailto:harry[at]gmail.com'
 actions:
